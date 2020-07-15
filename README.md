@@ -1,2 +1,8 @@
 # Projeto-Estagio-ACIN
-Todo o acesso ao projeto realizado duante o estágio pela Universidade da Madeira na Entidade ACIN iCloud Solutions.
+
+Formando: Carlos Abreu
+Entidade de Acolhimento: ACIN iCloud Solutions
+Tutora da Entidade de Acolhimento: Sofia Menezes
+Orientador da Universidade da Madeira: Luís Gaspar
+
+# Inicialização do Projeto
