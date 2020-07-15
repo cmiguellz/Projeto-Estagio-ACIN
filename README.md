@@ -1,9 +1,13 @@
 # Projeto-Estagio-ACIN
 
-Formando: Carlos Abreu
-Entidade de Acolhimento: ACIN iCloud Solutions
-Tutora da Entidade de Acolhimento: Sofia Menezes
-Orientador da Universidade da Madeira: Luís Gaspar
+Formando: Carlos Abreu.
+
+Entidade de Acolhimento: ACIN iCloud Solutions.
+
+Tutora da Entidade de Acolhimento: Sofia Menezes.
+
+Orientador da Universidade da Madeira: Luís Gaspar.
+
 
 # Inicialização do Projeto
 
@@ -18,5 +22,3 @@ Orientador da Universidade da Madeira: Luís Gaspar
 5º Passo: Para iniciar o projeto no localhost, escrever o comando “php artisan serve” no mesmo terminal falado no passo anterior.
 
 6º Passo: Abrir o link que vai ser fornecido após o comando anterior e o projeto está pronto a ser usado.
-
-# End
